@@ -2,6 +2,10 @@
 home: True
 ---
 
+``` c
+#include <stdio.h>
+```
+
 # 主页
 
 ???+quote
