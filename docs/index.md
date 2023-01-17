@@ -29,4 +29,4 @@ home: True
 
 3. 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
 
-> Reference: <https://github.com/QSCTech/zju-icicles/edit/master/README.md>
+> Reference: <https://github.com/QSCTech/zju-icicles/blob/master/README.md>
